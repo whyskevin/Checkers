@@ -1,3 +1,3 @@
 # Checkers
-Two-player checkers/draughts game in Java
-Project for CS3B Java
+Project for CS3B Java.
+Two-player checkers/draughts game in Java. 
