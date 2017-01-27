@@ -1,2 +1,2 @@
 # Checkers
-Two player checkers game in Java
+Two-player checkers/draughts game in Java
