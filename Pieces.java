@@ -1,3 +1,4 @@
+package Checkers;
 import javax.swing.JComponent;
 
 public class Pieces extends JComponent {
